@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Sou estudante de Back-end<br>🤝 Estou a procura de estágio para aprender mais<br>🌱 Noites calmas são mais produtivas.<br>⚡ Fun fact: adoro inteligências artificiais, sem medo haha.
 
 
