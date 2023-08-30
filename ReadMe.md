@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey mate 👋<br><br>   I'm Carlos<br><br>✌ I'm a C#, Ruby and python developer looking for opportunities to further expand my knowledge.<br><br>📍 You can find me on [linkedin] and [gmail]<br><br>🧠 “If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”<br>― Nikola Tesla
+
+Hey mate 👋<br><br>   I'm Carlos<br><br>✌ I'm a C#, Ruby and python developer looking for opportunities to further expand my knowledge.<br><br><br><br>🧠 “If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”<br>― Nikola Tesla
 
 
 ## 🌐 Socials:
